@@ -11,5 +11,5 @@ Kelas : TI.22.A2
 ## Link YouTube 
 
 1. https://youtu.be/Z4LugaIAy9s?si=bw2hWroTsccLWnpR
-2. b
+2. https://youtu.be/Pl2HzjEthRQ?si=BJvZ6cvYDo1tWFzg
 3. c
