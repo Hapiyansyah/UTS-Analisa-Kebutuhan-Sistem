@@ -6,7 +6,7 @@ Kelas : TI.22.A2
 ```
 ## PDF UTS
 
-312210243_AKS.pdf
+[File UTS](312210243_AKS.pdf)
 
 ## Link YouTube 
 
