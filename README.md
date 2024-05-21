@@ -6,7 +6,7 @@ Kelas : TI.22.A2
 ```
 ## PDF UTS
 
-[File UTS](312210243_AKS.pdf)
+[File UTS](https://github.com/Hapiyansyah/UTS-Analisa-Kebutuhan-Sistem/blob/7f557250f686f1b2e317bbebf949ed6d31bb9447/312210243_AKS.pdf)
 
 ## Link YouTube 
 
